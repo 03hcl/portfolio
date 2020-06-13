@@ -13,27 +13,26 @@
         gtag('config', '{{ site.google_analytics }}');
       </script>
     {% endif %}
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     {% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#FFCC00" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
 
-    <link href="https://fonts.googleapis.com/css?family=Play:400,700">
-    <link href="http://fonts.googleapis.com/earlyaccess/notosansjp.css">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Play" />
+    <link href="https://fonts.googleapis.com/css?family=Play:400,700" />
+    <link href="http://fonts.googleapis.com/earlyaccess/notosansjp.css" />
   </head>
 
   <body>
-    <!-- <a id="skip-to-content" href="#content">Skip to the content.</a> -->
-
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h3 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
 
     <main id="content" class="main-content" role="main">
+
       {{ content }}
 
       <footer class="site-footer">
