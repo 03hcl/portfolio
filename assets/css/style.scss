@@ -8,10 +8,18 @@ body {
 }
 
 .page-header {
+  width: 100%;
+  height: 0;
+  padding-top: 100%;
   color: #FFF4C8;
   text-align: center;
   background-color: #AF8C00;
   background-image: url("https://github.com/03hcl/portfolio/raw/master/imgs/S__14188560_1024x1024_brush.jpg");
+}
+
+.page-header::before{
+  background-color: black;
+  opacity: 0.5;
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #AF8C00; }

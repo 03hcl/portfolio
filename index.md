@@ -100,48 +100,55 @@ description: 金沢で大学院生をやっています。<br/>(最終更新日 
 
 ## PRODUCTS / これまでの作品
 
-- **履修登録補助ソフト**
-  *C#, WPF, HTTP*
-  <img width="240" alt="(ソフト画像)" src="https://github.com/03hcl/portfolio/raw/master/imgs/risyu1.png"/>
+- **履修登録補助ソフト**  
+  *C#, WPF, HTTP*  
+  ![(ソフト画像)](/imgs/risyu1.png)  
   金沢大学の履修システムと独自に連携したソフトを作りました。
-- **英語学習サイトの解答収集ツール**
-  *C#, WPF, HTTP*
-  英語解答
+- **英語学習サイトの解答収集ツール**  
+  *C#, WPF, HTTP*  
+  英語解答  
   整形式でないXMLの読み取りに
-- **Arduinoを使ったデレステ自動演奏**
-  *C#, WPF, HTTP*
-  [デモ映像のツイートはこちら](https://twitter.com/03hcl/status/1082606496213389314)
-  Arduinoを使って自動演奏させました。
-  譜面データ形式も独自に作りました[(例)](https://twitter.com/03hcl/status/1082610362153746433)。フリックには対応していません。
-- **Python補助コード群**
-  *Python, *
-  [GitHub(まだ)]()|修士での研究で<br/>以下の通りです。<br/>/torchhelper/ → PyTorch での学習部分をまとめたコード <br/>/music/ 音楽信号と和音を扱うためのユーティリティー(WAVEフォーマット Reader/Writer, ピッチ、コードネーム解析器等)
-- **Project DIVA Arcade スコア解析ツール**
-  *VBA*
-
-- **ジャグリングサークルのサイト管理**
-  *HTML, CSS*
-  [サイトはこちら](http://jugglexmagic.blog.fc2.com/)
-  大学で所属しているサークルのブログの全面的な改修とデータ管理を行いました。<br/>特段変哲のないFC2ブログだと思います。
-  過去動画のサルベージやまとめ|
+- **Arduinoを使ったデレステ自動演奏**  
+  *C#, WPF, HTTP*  
+  [デモ映像のツイートはこちら](https://twitter.com/03hcl/status/1082606496213389314)  
+  Arduinoを使って自動演奏させました。フリック以外に対応しています。  
+  譜面データ形式も独自に作りました[(例)](https://twitter.com/03hcl/status/1082610362153746433)。  
+- **Python補助コード群**  
+  *Python, *  
+  [GitHub(まだ)]()|修士での研究で  
+  以下の通りです。  
+  - /torchhelper/ → PyTorch での学習部分をまとめたコード
+  - /music/ 音楽信号と和音を扱うためのユーティリティー (WAVEフォーマット Reader/Writer, ピッチ、コードネーム解析器等)
+- **Project DIVA Arcade スコア解析ツール**  
+  *VBA, Excel*  
+  Project DIVA Arcade という音ゲーのスコアタルート(スコア)を推定するプログラムを書きました。
+- **ジャグリングサークルのサイト管理**  
+  *HTML, CSS*  
+  [サイトはこちら](http://jugglexmagic.blog.fc2.com/)  
+  大学で所属しているサークルのブログの全面的な改修とデータ管理を行いました。
+  特段変哲のないFC2ブログだと思います。  
+  過去動画のサルベージやまとめを行い、全面的にGoogleドライブに移行作業を行い、引き継ぎのためにマニュアル作成なども行いました。  
 - その他
-  - 関数電卓 (FX-5800p) を用いたテトリス
-  - [金沢大学ポータルサイト認証デモ](https://03hcl.github.io/acanthus-extension-login/login.html)
+  - [金沢大学ポータルサイト認証デモ](https://03hcl.github.io/acanthus-extension-login/login.html)  
     *JavaScript, HTML*
+  - 関数電卓 (FX-5800p) を用いたテトリス作成
 
 
 
 ## OTHERS / その他の経験
 
 - **楽譜制作**
-  たまにYouTubeやニコニコ動画に楽譜の動画をあげています。
+  ![(画像)](/imgs/score.png)
+  MuseScore というフリーソフトでポピュラーソングのアレンジをしており、たまにYouTubeやニコニコ動画に楽譜の動画をあげています。  
+  20万回再生された[動画](https://youtu.be/CPrypYMtIvs)もあります。
 - **ジャグリング**
   大学2年のときの金大祭でボールジャグリングのチームルーティンを披露しました。
-  [動画はこちら](https://youtu.be/ybKOuMxzPjo)
+  ![(画像)](/imgs/DSC_0163.JPG)
+  [動画はこちら](https://youtu.be/ybKOuMxzPjo)  
   動画編集も頑張りました。後半のNG集は見どころ(むしろ本編)です！|
 - **音ゲー**
   現在ではサービスが終了してしまったのですが、BeatStream というアーケードの音ゲーをよくやっていました。
-  <img width="240" alt="(ソフト画像)" src="https://github.com/03hcl/portfolio/raw/master/imgs/beatstream3.png"/>
+  ![(スコア画像1)](/imgs/beatstream3.png)  
   やり込んだ結果、いくつかの難関曲では曲別全国ランキングで一桁に入ることもできました。
 
 
