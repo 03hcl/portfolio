@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Portfolio
+title: Okude Takuo's Portfolio
+description: 金沢で大学院生をやっています。(最終更新日: 2020-06-13)
 ---
 
-# Okude Takuo's Portfolio
-
-金沢で大学院生をやっています。
-(最終更新日: 2020-06-13)
-
 ## 自己紹介
+
+![(アイコン)](/imgs/03_simple.png)
 
 はじめまして。奥出拓生と申します。  
 石川県に住んでいる、平成7年生まれの25歳です。  
@@ -96,11 +94,9 @@ title: Portfolio
 
 ### その他
 
-関数電卓 (FX-5800p) 
+関数電卓 (FX-5800p)
 
 ## 連絡先
 
 - メールアドレス: takuo.okude(あっと)gmail.com
 - Twitter: [@03hcl](https://twitter.com/03hcl)
-
-
