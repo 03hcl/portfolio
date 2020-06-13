@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Okude Takuo's Portfolio
-description: 金沢で大学院生をやっています。(最終更新日: 2020-06-13)
 ---
 
-## 自己紹介
+金沢で大学院生をやっています。(最終更新日: 2020-06-13)
+
+## About Me / 自己紹介
 
 <!-- ![(アイコン)](/imgs/03_simple.png) -->
-<img width="320" alt="(アイコン)" src="/imgs/03_simple.png"/>
+<img width="320" alt="(アイコン)" src="https://github.com/03hcl/portfolio/raw/master/imgs/03_simple.png"/>
 
 はじめまして。奥出拓生と申します。  
 石川県に住んでいる、平成7年生まれの25歳です。  
@@ -29,7 +30,7 @@ description: 金沢で大学院生をやっています。(最終更新日: 2020
 - 2019.10. - 2020.3. / 石川県工業試験場にてインターンシップ
   - 工作機械の異常検知における深層学習を用いた新規手法の開発・検証
 
-## スキル
+## Skill / スキル
 
 ### プログラミング言語
 
@@ -85,22 +86,18 @@ description: 金沢で大学院生をやっています。(最終更新日: 2020
 
 - 複数人での開発
 
-## これまでの作品
+## PRODUCTS / これまでの作品
 
 |:--|:--|
-|履修登録補助ソフト<br/><img width="320" alt="(ソフト画像)" src="/imgs/risyu1.jpg"/>|金沢大学の履修システムと独自に連携したソフトを作りました|。<br/>
+|履修登録補助ソフト<br/>使用技術: C#, WPF, HTTP通信<br/><img width="320" alt="(ソフト画像)" src="https://github.com/03hcl/portfolio/raw/master/imgs/risyu1.jpg"/>|金沢大学の履修システムと独自に連携したソフトを作りました。<br/>|
+|英語サイト|英語解答<br/>整形式でないXMLの読み取りに|
+|Arduinoを使ったデレステ自動演奏<br/>[デモ映像のツイートはこちら](https://twitter.com/03hcl/status/1082606496213389314)|Arduinoを使って自動演奏させました。<br/>譜面データ形式も独自に作りました[(例)](https://twitter.com/03hcl/status/1082610362153746433)。フリックには対応していません。|
+|Python補助コード群<br/>[GitHub(まだ)]()|修士での研究で<br/>以下の通りです。<br/>/torchhelper/ → PyTorch での学習部分をまとめたコード <br/>/music/ 音楽信号と和音を扱うためのユーティリティー(WAVEフォーマット Reader/Writer, ピッチ、コードネーム解析器等)|
+|Project DIVA Arcade スコア解析ツール(VBA)||
+|ジャグリングサークルのサイト管理<br/>[サイトはこちら](http://jugglexmagic.blog.fc2.com/)|大学で所属しているサークルのブログの全面的な改修とデータ管理を行いました。<br/>特段変哲のないFC2ブログではあると思います。|
+|その他|関数電卓 (FX-5800p) を用いたテトリス<br/>|
 
-### 履修登録補助ツール
-
-### PyTorch 補助コード群
-
-### ジャグリングサークルのサイト管理
-
-### その他
-
-関数電卓 (FX-5800p)
-
-## 連絡先
+## Contact Me / 連絡先
 
 - メールアドレス: takuo.okude(あっと)gmail.com
 - Twitter: [@03hcl](https://twitter.com/03hcl)
