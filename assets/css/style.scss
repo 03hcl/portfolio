@@ -3,17 +3,15 @@
 
 @import "{{ site.theme }}";
 
-body { font-family: 'Noto Sans JP', sans-serif; }
-
-.page-header {
-  // width: 100%;
-  // height: 0;
-  // padding-top: 100%;
-  color: #FFF4C8;
-  text-align: center;
-  background-color: #AF8C00;
-  // background-image: url("https://github.com/03hcl/portfolio/raw/master/imgs/S__14188560_1024x1024_brush.jpg");
-}
+// .page-header {
+//   // width: 100%;
+//   // height: 0;
+//   // padding-top: 100%;
+//   color: #FFF4C8;
+//   text-align: center;
+//   background-color: #AF8C00;
+//   // background-image: url("https://github.com/03hcl/portfolio/raw/master/imgs/S__14188560_1024x1024_brush.jpg");
+// }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #AF8C00; }
 
@@ -21,10 +19,9 @@ body { font-family: 'Noto Sans JP', sans-serif; }
 
 .main-content h2 { 
   font-size: 32px;
-  font-family: Play, 'M PLUS Rounded 1c';
-  margin-top: 8rem;
-  margin-block-start: 0.16em;
-  margin-block-end: 0.16em;
+  // font-family: Play, 'M PLUS Rounded 1c';
+  margin-block-start: 6em;
+  margin-block-end: 2em;
   line-height: 1.6em;
   border-bottom: 1px solid #E0D4A0;
   &:first-letter { font-size: 80px; }
@@ -32,7 +29,9 @@ body { font-family: 'Noto Sans JP', sans-serif; }
 
 .main-content h3 {
   font-size: 24pt;
-  font-family: Play, 'M PLUS Rounded 1c';
+  // font-family: Play, 'M PLUS Rounded 1c';
 }
 
 .main-content img { width: 320px; }
+
+body { font-family: 'Noto Sans JP', sans-serif; }
