@@ -4,22 +4,30 @@
 @import "{{ site.theme }}";
 
 body {
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Play', 'Noto Sans JP', sans-serif;
 }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  color: #AF8C00;
+.page-header {
+  color: #FFF4C8;
+  text-align: center;
+  background-color: #AF8C00;
+  background-image: url("https://github.com/03hcl/portfolio/raw/master/imgs/S__14188560_1024x1024_brush.jpg");
 }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #AF8C00; }
 
 .main-content h1 { font-size: 64pt; }
 
 .main-content h2 { 
   font-size: 32px;
-  margin-block-start: 0.5em;
-  margin-block-end: 0.5em;
-  // line-height: 1.6em;
+  margin-top: 8rem;
+  margin-block-start: 0.16em;
+  margin-block-end: 0.16em;
+  line-height: 1.6em;
   border-bottom: 1px solid #E0D4A0;
   &:first-letter { font-size: 80px; }
 }
 
 .main-content h3 { font-size: 24pt; }
+
+.main-content img { width: 320px; }
