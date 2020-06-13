@@ -126,6 +126,8 @@ description: 金沢で大学院生をやっています。<br/>(最終更新日 
   - `./visualizer/graphlibs` 
     Matplotlib, PyQtGraph など、グラフ描画ライブラリの種類によらなず、各グラフ要素 (Figure, Axes, Axis など) へのオブジェクト指向なアクセスを実現させるためのラッパーライブラリ。  
     一部の機能にのみ対応。  
+  
+  　
 
 - **英語学習サイト解答収集ツール**  
   *C#, XML*  
@@ -140,14 +142,14 @@ description: 金沢で大学院生をやっています。<br/>(最終更新日 
   [source](https://github.com/03hcl/Deleste)  
   ![(デモ画像)](/imgs/vlcsnap-2020-06-14-05h26m54s508.png)  
 
-  [デモ動画のツイートはこちら](https://twitter.com/03hcl/status/1082606496213389314)  
+  ([デモ動画のツイート](https://twitter.com/03hcl/status/1082606496213389314))  
   スマートフォンの音楽ゲーム「アイドルマスター シンデレラガールズ スターライトステージ」の譜面を Arduino と使って自動でプレイさせました。フリック以外のノーツに対応しています。  
   ソフト面だけでなく、ハード面としてリレー回路を用いた電子工作も行いました。
-  譜面データ形式は独自フォーマットのものを作成し [(譜面データ例)](https://twitter.com/03hcl/status/1082610362153746433)、譜面データから Arduino で読み取るCSVファイルに変換するコンバーターについては C# で作成しました。  
+  譜面データ形式は独自フォーマットのものを作成し ([譜面例のツイート](https://twitter.com/03hcl/status/1082610362153746433))、譜面データから Arduino で読み取るCSVファイルに変換するコンバーターについては C# で作成しました。  
   また、Arduino のメモリのサイズはかなり小さいため、CSVファイルから読み取ったデータをさらにビット単位で圧縮しています。
 
 - **Project DIVA Arcade スコア解析ツール**  
-  *VBA, Excel*  
+  *VBA*  
   [source](https://github.com/03hcl/DivaAnalyzer)  
   ![(解析画像)](/imgs/kowase_last.png)  
 
@@ -157,14 +159,15 @@ description: 金沢で大学院生をやっています。<br/>(最終更新日 
 - その他
 
   - **ジャグリングサークルのサイト管理**  
-    *HTML, CSS*  
+    *HTML*  
     [サイトはこちら](http://jugglexmagic.blog.fc2.com/)  
     大学で所属しているサークルのブログのデータ管理を行いました。
     特段変哲のないFC2ブログだと思います。  
-    過去動画のサルベージやまとめ、若干のテンプレート改修を行いました。動画データについては直近4年全てのデータについて Google ドライブに移行作業を行い、引き継ぎのためのマニュアル作成なども実施しました。  
+    過去動画のサルベージやまとめ、若干のテンプレート改修を行いました。
+    動画データについては直近4年全てのデータについて Google ドライブに移行作業を行い、引き継ぎのためのマニュアル作成なども実施しました。  
 
   - [金沢大学ポータルサイト認証デモ](https://03hcl.github.io/acanthus-extension-login/login.html)  
-    *JavaScript, HTML*  
+    *JavaScript*  
     [source](https://github.com/03hcl/acanthus-extension-login)  
 
   - ボールジャグリングにおけるサイトスワップ総数数え上げ
@@ -180,7 +183,7 @@ description: 金沢で大学院生をやっています。<br/>(最終更新日 
 - **楽譜制作**  
   ![(画像)](/imgs/score.png)  
   ポピュラーソングのアレンジをしており、たまにYouTubeやニコニコ動画に楽譜の動画をあげています。  
-  譜面は MuseScore というフリーソフトで作成しています。
+  譜面は MuseScore というフリーソフトで作成しています。  
   けものフレンズのオープニング曲「ようこそジャパリパークへ」のピアノアレンジは、YouTubeで20万回再生されました。([動画](https://youtu.be/CPrypYMtIvs))  
 
 - **ジャグリング**  
