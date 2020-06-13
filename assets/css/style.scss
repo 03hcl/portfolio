@@ -7,14 +7,19 @@ body {
   font-family: 'Noto Sans JP', sans-serif;
 }
 
-h1 { font-size: 64pt; }
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #AF8C00;
+}
 
-h2 { 
+.main-content h1 { font-size: 64pt; }
+
+.main-content h2 { 
   font-size: 32px;
-  margin-left: -100px;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
   // line-height: 1.6em;
-  // border-bottom: 1px solid #bfbfbf;
+  border-bottom: 1px solid #E0D4A0;
   &:first-letter { font-size: 80px; }
 }
 
-h3 { font-size: 24pt; }
+.main-content h3 { font-size: 24pt; }
