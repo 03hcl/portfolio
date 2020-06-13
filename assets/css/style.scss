@@ -7,12 +7,14 @@ body {
   font-family: 'Noto Sans JP', sans-serif;
 }
 
-h1 { font-size: 64pt;}
+h1 { font-size: 64pt; }
 
-h2 { font-size: 32px;
+h2 { 
+  font-size: 32px;
+  margin-left: -100px;
   // line-height: 1.6em;
   // border-bottom: 1px solid #bfbfbf;
   &:first-letter { font-size: 80px; }
 }
 
-h3 { font-size: 24pt;}
+h3 { font-size: 24pt; }
