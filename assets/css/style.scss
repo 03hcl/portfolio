@@ -4,10 +4,10 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  color: #C9D3FF;
+  color: #252000;
   text-align: center;
   background-color: #AF8C00;
-  background-image: linear-gradient(45deg, rgb(175, 115, 0), rgb(175, 175, 0));
+  background-image: linear-gradient(45deg, #FFC680, #F8FF80);
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #AF8C00; }
