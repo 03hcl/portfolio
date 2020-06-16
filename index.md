@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Okude Takuo's Portfolio
-description: 金沢で大学院生をやっています。<br/>(最終更新日 2020-06-13)
+description: 金沢で大学院生をやっています。<br/>(最終更新日 2020-06-15)
 ---
 
 ## ABOUT ME / 自己紹介
